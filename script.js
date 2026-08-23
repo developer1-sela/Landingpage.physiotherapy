@@ -50,7 +50,25 @@
     els.forEach(function (el) { observer.observe(el); });
   }
 
+  function initHeroTilt() {
+    if (reducedMotion) return;
+    var visual = document.getElementById('heroVisual');
+    var card = visual && visual.querySelector('.hero-photo-card');
+    if (!visual || !card) return;
+    var maxTilt = 8;
+    visual.addEventListener('mousemove', function (e) {
+      var rect = visual.getBoundingClientRect();
+      var x = (e.clientX - rect.left) / rect.width - 0.5;
+      var y = (e.clientY - rect.top) / rect.height - 0.5;
+      card.style.transform = 'rotateY(' + (x * maxTilt) + 'deg) rotateX(' + (-y * maxTilt) + 'deg)';
+    });
+    visual.addEventListener('mouseleave', function () {
+      card.style.transform = 'rotateY(0deg) rotateX(0deg)';
+    });
+  }
+
   document.addEventListener('DOMContentLoaded', function () {
     initCountUp();
+    initHeroTilt();
   });
 })();

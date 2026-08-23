@@ -9,10 +9,9 @@ window.I18N = {
     en: 'Specialized physical therapy for back and neck pain, disc problems, and sports injuries with Dr. AbdAlmajeed Al-Kilani and his team — Digital Medical Center, Sharjah Healthcare City.'
   },
 
-  brandTagline: { ar: 'المركز الطبي الرقمي — العلاج الطبيعي', en: 'Physiotherapy' },
+  brandTagline: { ar: 'العلاج الطبيعي', en: 'Physiotherapy' },
   navSymptoms: { ar: 'الأعراض', en: 'Symptoms' },
   navServices: { ar: 'الخدمات', en: 'Services' },
-  navTeam: { ar: 'الفريق', en: 'Our Team' },
   navClinic: { ar: 'العيادة', en: 'Clinic' },
   mainSiteBtn: { ar: 'الموقع الرئيسي', en: 'Main Website' },
   bookBtn: { ar: 'احجز جلستك', en: 'Book a Session' },
@@ -28,7 +27,7 @@ window.I18N = {
     en: 'A specialized team of physical therapists, led by Dr. AbdAlmajeed Al-Kilani, delivers treatment programs built on an accurate diagnosis of your case — covering back and neck pain, disc problems, and posture correction, using manual techniques and modern equipment.'
   },
   bookFreeBtn: { ar: 'احجز جلستك', en: 'Book a Session' },
-  seeTeamBtn: { ar: 'تعرّف على فريقنا', en: 'Meet Our Team' },
+  seeSymptomsBtn: { ar: 'تعرّف على الأعراض', en: 'See the Symptoms' },
 
   statSatisfaction: { ar: 'رضا العملاء', en: 'Client Satisfaction' },
   instagramHandle: { ar: '@dmc_shj', en: '@dmc_shj' },
@@ -65,17 +64,11 @@ window.I18N = {
   service5: { ar: 'تصحيح قوام الجسد ومشاكل العمود الفقري', en: 'Posture Correction and Spinal Issues Treatment' },
   service6: { ar: 'علاج مشاكل ديسك الرقبة والظهر (عرق النسا)', en: 'Treatment of Cervical and Lumbar Disc Problems (Sciatica)' },
 
-  teamTag: { ar: 'الفريق', en: 'Team' },
-  teamHeading: { ar: 'المتخصصون الذين يتابعون حالتك', en: 'The specialists behind your care' },
-  team1Name: { ar: 'د. عبدالمجيد الكيلاني', en: 'Dr. AbdAlmajeed Al-Kilani' },
-  team1Title: { ar: 'اخصائي العلاج الطبيعي', en: 'Physio Therapist' },
-
   clinicTag: { ar: 'العيادة', en: 'Clinic' },
   ratingBadge: { ar: '4.8 تقييم', en: '4.8 Rating' },
   licensedBadge: { ar: 'مرخّصة رسمياً', en: 'Officially Licensed' },
   clinicAddress: { ar: 'عيادة 4، الطابق 2، تقاطع 6، المزيرعة، الشارقة', en: 'Clinic 4, 2nd Floor, Intersection 6, Al Muzeiraʿa, Sharjah' },
   whatsappBtn: { ar: 'واتساب', en: 'WhatsApp' },
-  callBtn: { ar: 'اتصال', en: 'Call' },
 
   footerDesc: {
     ar: 'علاج طبيعي متخصص لآلام الرقبة والظهر والإصابات الرياضية مع فريق DMC.',
