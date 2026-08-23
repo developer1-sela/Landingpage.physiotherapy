@@ -46,6 +46,7 @@ window.I18N = {
   symptom5: { ar: 'ألم أو تيبّس بعد عملية جراحية', en: 'Pain or stiffness following a surgical procedure' },
   symptom6: { ar: 'صداع متكرر مرتبط بتوتر الرقبة والكتفين', en: 'Recurring headaches linked to neck and shoulder tension' },
   symptom7: { ar: 'اعوجاج ملحوظ في قوام الجسم أو العمود الفقري', en: 'Noticeable misalignment in posture or the spine' },
+  symptom8: { ar: 'تنميل أو وخز في اليدين أو القدمين', en: 'Numbness or tingling in the hands or feet' },
   symptomsClosing: {
     ar: 'التشخيص المبكر يقلل من احتمال تفاقم الحالة، ويقصّر مدة العلاج.',
     en: 'Early diagnosis reduces the chance of the condition worsening, and shortens treatment time.'
@@ -58,11 +59,17 @@ window.I18N = {
     en: 'Treatment programs designed around each patient’s case, under the direct supervision of a specialized team:'
   },
   service1: { ar: 'علاج آلام الرقبة والظهر', en: 'Treatment of Neck and Back Pain' },
+  service1Desc: { ar: 'تخفيف الألم الحاد والمزمن بتقنيات علاج يدوي وتمارين علاجية مستهدفة', en: 'Relieving acute and chronic pain with manual therapy techniques and targeted therapeutic exercise' },
   service2: { ar: 'علاج وتأهيل الإصابات الرياضية', en: 'Sports Injury Treatment and Rehabilitation' },
+  service2Desc: { ar: 'برامج تأهيل مصممة لإعادتك لنشاطك الرياضي بأمان وأسرع وقت ممكن', en: 'Rehabilitation programs designed to get you back to your sport safely and as quickly as possible' },
   service3: { ar: 'علاج وتأهيل قبل وبعد العمليات الجراحية', en: 'Pre- and Post-Surgical Treatment and Rehabilitation' },
+  service3Desc: { ar: 'تجهيز الجسم قبل الجراحة وتسريع التعافي بعدها بخطة مرحلية', en: 'Preparing the body before surgery and speeding up recovery after it with a staged plan' },
   service4: { ar: 'علاج الصداع والطنين ومشاكل الفك', en: 'Treatment of Headaches, Tinnitus and Jaw Disorders' },
+  service4Desc: { ar: 'معالجة الأسباب العضلية والعصبية للصداع المزمن ومشاكل مفصل الفك', en: 'Addressing the muscular and neural causes of chronic headaches and jaw joint problems' },
   service5: { ar: 'تصحيح قوام الجسد ومشاكل العمود الفقري', en: 'Posture Correction and Spinal Issues Treatment' },
+  service5Desc: { ar: 'تقييم دقيق للقوام وتصحيح الانحناءات لتقليل الضغط على العمود الفقري', en: 'Precise posture assessment and correcting misalignment to reduce pressure on the spine' },
   service6: { ar: 'علاج مشاكل ديسك الرقبة والظهر (عرق النسا)', en: 'Treatment of Cervical and Lumbar Disc Problems (Sciatica)' },
+  service6Desc: { ar: 'بروتوكولات علاجية متخصصة لتخفيف الضغط على الأعصاب وتحسين الحركة', en: 'Specialized treatment protocols to relieve nerve pressure and improve mobility' },
 
   clinicTag: { ar: 'العيادة', en: 'Clinic' },
   ratingBadge: { ar: '4.8 تقييم', en: '4.8 Rating' },
