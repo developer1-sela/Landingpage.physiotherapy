@@ -74,7 +74,7 @@ window.I18N = {
   clinicTag: { ar: 'العيادة', en: 'Clinic' },
   ratingBadge: { ar: '4.8 تقييم', en: '4.8 Rating' },
   licensedBadge: { ar: 'مرخّصة رسمياً', en: 'Officially Licensed' },
-  clinicAddress: { ar: 'عيادة 4، الطابق 2، تقاطع 6، المزيرعة، الشارقة', en: 'Clinic 4, 2nd Floor, Intersection 6, Al Muzeiraʿa, Sharjah' },
+  clinicAddress: { ar: 'مدينة الشارقة الصحية', en: 'Sharjah Healthcare City' },
   whatsappBtn: { ar: 'واتساب', en: 'WhatsApp' },
 
   footerDesc: {
